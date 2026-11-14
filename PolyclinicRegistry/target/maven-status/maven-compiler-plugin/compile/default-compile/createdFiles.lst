@@ -1,0 +1,5 @@
+ru/polyclinic/polyclinicregistry/JakartaRestConfiguration.class
+ru/polyclinic/model/Appointment.class
+ru/polyclinic/controller/RegistryServlet.class
+ru/polyclinic/polyclinicregistry/resources/JakartaEE10Resource.class
+ru/polyclinic/ejb/AppointmentService.class
